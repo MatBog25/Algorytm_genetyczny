@@ -1,1 +1,1 @@
-"# OG" 
+"Optymalizacja globalna" 
